@@ -36,7 +36,7 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The ternary operator tutorial was very helpful in making my code more concise. Implementing the event listeners and handlers was a pretty straightforward process thanks to the helpful sequential comments.
 
 ## License
 
