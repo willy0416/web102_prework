@@ -10,21 +10,23 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] Centered headings to give a symmetrical appearance to the website
-* [ ] Added consistent hover CSS stylings for all functioning buttons
+* [x] Centered headings to give a symmetrical appearance to the website
+* [x] Added consistent hover CSS stylings for all functioning buttons
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/f7nrYqq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://i.imgur.com/3S0uIUS.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+![](https://github.com/willy0416/web102_prework/blob/main/site_walkthrough.gif)
+
 
 GIF created with LICEcap
 <!-- Recommended tools:
@@ -38,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [William Lee]
+    Copyright 2023 William Lee
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
